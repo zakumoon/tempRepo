@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "array": "cpp",
+      "string_view": "cpp",
+      "initializer_list": "cpp",
+      "random": "cpp"
+    }
+}

@@ -1,0 +1,16 @@
+					Logic ตรรกะศาสตร์
+	บทนิยม เป็น้อความที่สามารถระบุความจริงได้ว่า เป็น T || F และไม่ามารถเป็น T & F พร้อมกันได้
+
+	**ภาษาตรรกะศาสตร์ OR = v ==> PY --> |
+	**ภาษาตรรกะศาสตร์ AND = ^ ==> PY --> &
+	**ภาษาตรรกะศาสตร์ COMPLEMENT =  ~  ==> ในPY--> ~
+
+	-ตัวแปรประโพจน์ Propositional variable = define var ด้วย string
+	-ค่าคงที่ประพจน์ Propositional Constant = เมื่อตัวแปรถูกระบุค่าความจริง
+	-ประพจน์ประกอบ Compound Propositions = when var and value define by Logical Operetors
+	-Logical Operetor = 
+		1. เงื่อนไขทางเดี่ยว(Conditional) = p if only q ==> p --> q && if t+f =F else T
+		2. บทกลับ(Converse) = p --> q != q --> p && only p --> q == ~q --> p else F
+
+
+
